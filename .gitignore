@@ -1,0 +1,16 @@
+# Godot editor cache
+.godot/
+
+# Godot export builds
+godot/export/
+*.exe
+*.x86_64
+*.pck
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Claude local settings
+.claude/
